@@ -6,7 +6,7 @@
 
 1. GIT Clone repo:
 
-2.  Execute command `cd getpaymentdates` in terminal
+2.  Execute command `cd assignment` in terminal
 
 3.  Execute command `composer install` in terminal
 
