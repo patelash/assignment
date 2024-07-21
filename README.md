@@ -31,5 +31,3 @@
 2. 15th day of Month is a Saturday
 
 3. 15th day of Month is a Sunday
-# assignment
-# assignment
