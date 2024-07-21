@@ -1,6 +1,6 @@
 ### Prerequisite:
 
-----Use PHP version 8.1 or above
+----Use PHP version 8.2 or above
 
 ### Steps to execure project:
 
@@ -30,4 +30,4 @@
 
 2. 15th day of Month is a Saturday
 
-3. 15th day of Month is a Sunday
+3. 15th day of Month is a Sunday		
