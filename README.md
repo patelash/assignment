@@ -4,7 +4,7 @@
 
 ### Steps to execure project:
 
-1. GIT Clone repo:
+1. GIT Clone repo: https://github.com/patelash/assignment
 
 2.  Execute command `cd assignment` in terminal
 
