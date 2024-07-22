@@ -16,7 +16,7 @@ class CustomException extends Exception
     {
         //
     }
- 
+
     /**
      * Render the exception into an HTTP response.
      *
